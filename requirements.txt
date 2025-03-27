@@ -9,3 +9,8 @@ sentence-transformers
 torch
 beautifulsoup4
 langchain
+popper-utils
+tesseract-ocr
+pdf2image
+pytesseract	
+Pillow
