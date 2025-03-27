@@ -8,5 +8,10 @@ chromadb
 sentence-transformers
 torch
 beautifulsoup4
-langchain==0.1.0
+langchain
+popper-utils
+tesseract-ocr
+pdf2image
+pytesseract	
+Pillow
 bs4
