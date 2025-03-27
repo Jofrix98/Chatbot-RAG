@@ -1,0 +1,40 @@
+site_name: Documentación de la FIB
+site_url: https://www.fib.upc.edu
+
+nav:
+  - Home: es.md
+  - Empresa:
+      - Visióna: es_empresa_fib-visiona.md
+      - Prácticas en empresa: es_empresa_practicas-en-empresa_listado-ofertas.md
+  - Estudios:
+      - Grados:
+          - Bioinformática: es_estudios_grados_grado-en-bioinformatica_horarios.md
+          - Matrícula: es_estudios_grados_grado-en-bioinformatica_matricula_plazas-libres.md
+          - Ingeniería Informática:
+              - Trabajo de Fin de Grado: es_estudios_grados_grado-en-ingenieria-informatica_trabajo-de-fin-de-grado.md
+      - Másters:
+          - Ciencia de Datos:
+              - Trabajo de Fin de Máster: es_estudios_masteres_master-en-ciencia-de-datos_trabajo-de-fin-de-master_ofertas-de-proyectos.md
+          - Innovación en Informática:
+              - Plan de estudios y especialidades: es_estudios_masteres_master-en-innovacion-e-investigacion-en-informatica_plan-de-estudios_especialidades_computacion-de-altas-prestaciones.md
+          - Inteligencia Artificial: 
+              - Plan de estudios: es_estudios_masteres_master-en-inteligencia-artificial_plan-de-estudios.md
+          - Movilidad Urbana: 
+              - Plan de estudios: es_estudios_masteres_master-en-movilidad-urbana_plan-de-estudios.md
+  - Investigación:
+      - General: es_investigacion.md
+      - Grupos de investigación:
+          - LARCA: es_investigacion_grupos-de-investigacion_larca-laboratorio-algoritmica-relacional-complejidad-y-aprendizaje.md
+  - La FIB:
+      - Gobierno:
+          - CACGIA: es_la-fib_la-facultad_gobierno_cacgia.md
+          - CAMEI: es_la-fib_la-facultad_gobierno_camei.md
+      - Premios y Reconocimientos:
+          - Anna Salles: es_la-fib_la-facultad_premios-y-reconocimientos_anna-salles-estudiante-del-mai-galardonada-en-los-premios-de-promocion-de-la-salud-de-la-xarxa-uscat.md
+      - Sistema de Calidad:
+          - Política y Objetivos: es_la-fib_sistema-de-calidad_politica-y-objetivos-de-calidad-en-la-fib.md
+          - Sistema de Calidad en la FIB: es_la-fib_sistema-de-qualitat.md
+  - Movilidad:
+      - Outgoing:
+          - Calendario: es_movilidad_outgoing_calendario-movilidad_solicitud-para-el-national-institute-informatics-nii-de-tokyo-1a-convocatoria.md
+          - Estancias Académicas: es_movilidad_outgoing_estancias-academicas_antes-de-irte.md
