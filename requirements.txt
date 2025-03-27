@@ -9,3 +9,4 @@ sentence-transformers
 torch
 beautifulsoup4
 langchain==0.1.0
+bs4
