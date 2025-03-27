@@ -1,7 +1,9 @@
 # CHATBOT-RAG
 
 ## Ejecutar .py
-Run: python -m uvicorn main:app --reload
+Install requirements: `pip install -r requirements.txt`
+
+Run: `python -m uvicorn main:app --reload`
 
 ## Objetivo
 Hacer un chatbot en una aplicación web (Flask / FastAPI) que permite hacer consultas a un asistente sobre cosas de la FIB
