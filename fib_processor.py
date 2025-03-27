@@ -20,13 +20,17 @@ collection_name = "fib_web_data"
 # Obtener la colección (sin eliminarla completamente)
 collection = chroma_client.get_or_create_collection(name=collection_name)
 
-# Eliminar todos los documentos existentes en la colección
+# Eliminar todos los documentos existentes en la colección en lotes
+batch_size = 166  # Tamaño máximo permitido por ChromaDB
 all_ids = collection.get()["ids"]
 if all_ids:
-    collection.delete(ids=all_ids)
-    print(f"✅ Se eliminaron {len(all_ids)} documentos de la colección.")
+    for i in range(0, len(all_ids), batch_size):
+        batch_ids = all_ids[i:i + batch_size]
+        collection.delete(ids=batch_ids)
+        print(f"✅ Se eliminaron {len(batch_ids)} documentos del lote {i // batch_size + 1}.")
+    print(f"✅ Se eliminaron todos los documentos de la colección.")
 else:
-    print("⚠️  No había documentos previos en la colección.")
+    print("⚠️ No había documentos previos en la colección.")
 
 
 
@@ -115,3 +119,35 @@ for file_path in file_paths:
 
     except Exception as e:
         print(f"⚠️ Error procesando el archivo {file_path}: {e}")
+
+
+# =========================================================================================
+#                                       REALIZAR PREGUNTAS
+# =========================================================================================
+pregunta = input("Pregunta: " + " ")  # Mostramos la pregunta y capturamos la respuesta
+
+inicio = "Eres un chatbot basado en la información de la FIB."
+contexto_ini = "La respuesta a la pregunta que hará el usuario puede estar contenida en los siguiente textos separados por líeas horizontales.\n\n" # Guardamos la pregunta en una variable
+query_text = input("Pregunta: ")  # Mostramos la pregunta y capturamos la respuesta
+
+# Obtener embedding de la consulta
+query_embedding = compute_embedding(query_text)
+
+# Buscar en ChromaDB los fragmentos más relevantes
+results = collection.query(
+    query_embeddings=[query_embedding],
+    n_results=10
+)
+# Mostrar los resultados
+contexto = ""
+for doc, meta, dist in zip(results["documents"][0], results["metadatas"][0], results["distances"][0]):
+    contexto += '--------------------\n' + "Con similitud a la pregunta = " + f"{dist}\n" + f"{doc}\n"
+
+# print("inicio")
+# print(inicio)
+# print()
+#print("contexto")
+#print("Pregunta del usuario: " + query_text)
+#print(contexto)
+prompt = inicio + "\n\n" + contexto_ini + "\n\n" + contexto + "\n\n" + "Pregunta del usuario: " + query_text
+print(prompt)
