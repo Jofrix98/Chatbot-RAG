@@ -9,9 +9,9 @@ sentence-transformers
 torch
 beautifulsoup4
 langchain
-popper-utils
+poppler-utils
 tesseract-ocr
 pdf2image
-pytesseract	
+pytesseract
 Pillow
 bs4
