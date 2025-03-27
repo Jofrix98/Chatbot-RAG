@@ -10,4 +10,4 @@ Hacer un chatbot en una aplicación web (Flask / FastAPI) que permite hacer cons
 1. Básica
 2. Semántica FIBER
 3. OCR --> PDFs
-4. INstalable con Docker
+4. Instalable con Docker
