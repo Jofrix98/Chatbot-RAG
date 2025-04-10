@@ -734,12 +734,13 @@ Ven a conocer los grados de la FIB, tenemos un amplio calendario de puertas
 abiertas. Las [inscripciones](/ca/secundaria/portes-obertes) ya están
 abiertas!.
 
-[![](/sites/fib/files/images/estudis/masters_information_sessions_esp.png)](/es/estudios/masteres)
+[![](/sites/fib/files/images/fib/propers_actes_graduacio_2025_per_portada.png)](/es/la-
+fib/la-facultad/actos-academicos)
 
-**[Sesión informativa: Másteres Oficiales](/es/estudios/masteres)**
+**[Próximos actos de graduación](/es/la-fib/la-facultad/actos-academicos)**
 
-Tengo que estudiar un máster? Conoce los Programas de Máster de la FIB en
-nuestras sesiones informativas. [Regístrate ahora](/es/estudios/masteres)!
+El 13 de junio tendrá lugar el _acto_ académico de los titulados de Máster y
+el 9 de julio el de los titulados del GCED.
 
 [![](/sites/fib/files/images/eleccions_a_rector_o_rectora_2025_w_cens.jpeg.jpg)](https://eleccionsrectorat2025.upc.edu/ca/convocatoria-
 i-calendari-2025)
@@ -753,6 +754,75 @@ electoral](https://eleccionsrectorat2025.upc.edu/ca/convocatoria-i-
 calendari-2025).
 
 ## Noticias
+
+[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/sessio_informativa_de_les_especialitats_del_gei.png?itok=6_zo91EY)](/es/noticias/sesion-
+de-especialidades-del-grado-en-ingenieria-informatica-2025 "Sesión de
+especialidades del Grado en Ingeniería Informática 2025")
+
+### [Sesión de especialidades del Grado en Ingeniería Informática
+2025](/es/noticias/sesion-de-especialidades-del-grado-en-ingenieria-
+informatica-2025 "Sesión de especialidades del Grado en Ingeniería Informática
+2025")
+
+¿Tienes que escoger especialidad pero no te acabas de decidir? No te pierdas
+las sesiones informativas de especialidad el miércoles 14 de mayo!
+
+[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/odisseu_2025.png?itok=GJ8kTg4i)](/es/noticias/practicum-
+odisseu-curso-2024-2025 "Prácticum ODISSEU curso 2024-2025")
+
+### [Prácticum ODISSEU curso 2024-2025](/es/noticias/practicum-odisseu-
+curso-2024-2025 "Prácticum ODISSEU curso 2024-2025")
+
+Prácticas remuneradas en empresas, entidades o instituciones públicas de las
+comarcas rurales Leader de Cataluña, durante el verano de 2025.
+
+[![Premi UPC a la Qualitat de la Gestió
+universitària](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/premi_upc_a_la_qualitat_de_la_gestio_universitaria_w.png?itok=8AkVdpi4)](/es/noticias/premio-
+upc-la-calidad-en-la-gestion-universitaria-2025 "Premio UPC a la Calidad en la
+Gestión Universitaria, 2025")
+
+### [Premio UPC a la Calidad en la Gestión Universitaria,
+2025](/es/noticias/premio-upc-la-calidad-en-la-gestion-universitaria-2025
+"Premio UPC a la Calidad en la Gestión Universitaria, 2025")
+
+Premio UPC a la Qualitat de la Gestió Universitària amb l'objectiu reconèixer
+i incentivar la gestió de qualitat dins l'activitat desenvolupada pel PTGAS
+
+[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/cartell_orles_2025_v2.jpeg?itok=5x3mR9rI)](/es/noticias/orla-2024-2025-segunda-
+convocatoria "Orla 2024-2025 \(segunda convocatoria\)")
+
+### [Orla 2024-2025 (segunda
+convocatoria)](/es/noticias/orla-2024-2025-segunda-convocatoria "Orla
+2024-2025 \(segunda convocatoria\)")
+
+Apúntate para aparecer en la orla de la promoción 2025!
+
+[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/vacances_setmanasanta_2025w.png?itok=2i7pdabo)](/es/noticias/semana-
+santa-2025 "Semana Santa 2025")
+
+### [Semana Santa 2025](/es/noticias/semana-santa-2025 "Semana Santa 2025")
+
+La FIB permanecerá cerrada del 17 al 21 de abril (ambos incluídos)
+
+[![logo
+FIBVisiona](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/fibvisiona-
+logo-rgb-bicolor_1.png?itok=Y6jMhtWm)](/es/noticias/feria-de-empresas-fib-
+visiona-2025 "Feria de empresas FIB Visiona 2025")
+
+### [Feria de empresas FIB Visiona 2025](/es/noticias/feria-de-empresas-fib-
+visiona-2025 "Feria de empresas FIB Visiona 2025")
+
+La edición 2025 de FIB Visiona será el día 30 de abril en la plaza de las
+Constelaciones, Campus Norte UPC.
+
+[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/anna_rio_degana_fib_2025_per_noticia.png?itok=Z9d8REBj)](/es/noticias/anna-
+rio-nueva-decana-de-la-fib "Anna Rio, nueva decana de la FIB")
+
+### [Anna Rio, nueva decana de la FIB](/es/noticias/anna-rio-nueva-decana-de-
+la-fib "Anna Rio, nueva decana de la FIB")
+
+Anna Rio ha sido proclamada decana de la Facultad de Informática de Barcelona
+(FIB) de la UPC.
 
 [![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/beca_general_del_ministeri_2025_-_2026_.png?itok=Wwe1UaV8)](/es/noticias/beca-
 general-del-ministerio-2025-2026 "Beca general del Ministerio 2025-2026")
@@ -786,44 +856,6 @@ prestamos-upc-alumni-2025 "Programa de Préstamos UPC Alumni 2025")
 Abierta la convocatoria de los préstamos UPC Alumni para el curso académico
 2025-2026 por el estudiantado de la UPC.
 
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/noticia_lliga_debat_v2.png?itok=Ivvg3N7W)](/es/noticias/un-
-equipo-de-estudiantes-de-bioinformatica-finalistas-en-la-liga-de-debate-
-upc-2025 "Un equipo de estudiantes de Bioinformática finalistas en la Liga de
-Debate UPC, 2025")
-
-### [Un equipo de estudiantes de Bioinformática finalistas en la Liga de
-Debate UPC, 2025](/es/noticias/un-equipo-de-estudiantes-de-bioinformatica-
-finalistas-en-la-liga-de-debate-upc-2025 "Un equipo de estudiantes de
-Bioinformática finalistas en la Liga de Debate UPC, 2025")
-
-El equipo _Sofistes del Sistema_ de Bioinformática de la UPC se clasifica como
-finalista en la Liga de Debate UPC.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/activitat_lets_go_engineering_per_noticia.png?itok=au1sJnjA)](/es/noticias/alumnos-
-de-la-escuela-pia-de-sarria-participan-en-la-actividad-lets-go-engineering-en-
-la-fib "Alumnos de la Escuela Pia de Sarrià participan en la actividad 'Let's
-Go Engineering' en la FIB")
-
-### [Alumnos de la Escuela Pia de Sarrià participan en la actividad 'Let's Go
-Engineering' en la FIB](/es/noticias/alumnos-de-la-escuela-pia-de-sarria-
-participan-en-la-actividad-lets-go-engineering-en-la-fib "Alumnos de la
-Escuela Pia de Sarrià participan en la actividad 'Let's Go Engineering' en la
-FIB")
-
-Más de un centenar de alumnos de la Escuela Pia de Sarrià participaron en
-'Let's Go Engineering' en la FIB, realizando actividades sobre tecnología,
-inteligencia artificial y ciberseguridad.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/tastet_dorientacio_3_abril.jpg?itok=Nh6Uy6NA)](/es/noticias/cata-
-de-carreras-de-orientacion-en-el-campus-nord "Cata de carreras de orientación
-en el Campus Nord")
-
-### [Cata de carreras de orientación en el Campus Nord](/es/noticias/cata-de-
-carreras-de-orientacion-en-el-campus-nord "Cata de carreras de orientación en
-el Campus Nord")
-
-¡El jueves 3 de abril ven a buscar hitos por el Campus!
-
 [![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/portada_notiicia_0.png?itok=xowxX0KL)](/es/noticias/llega-
 la-11a-edicion-de-hackupc "¡Llega la 11ª edición de HackUPC!")
 
@@ -833,20 +865,6 @@ hackupc "¡Llega la 11ª edición de HackUPC!")
 Reserva el fin de semana del 2 al 4 de mayo, elige tu rol: Voluntario o
 Hacker, y sube de nivel en un fin de semana lleno de actividades, charlas
 tecnológicas y networking de alto nivel.
-
-[![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/pressupostos_participatius_estudiantat_upc.png?itok=jbw5FmvF)](/es/noticias/el-
-estudiantado-de-la-upc-puede-proponer-y-votar-proyectos-de-mejora-en-los-
-campus "El estudiantado de la UPC puede proponer y votar proyectos de mejora
-en los campus")
-
-### [El estudiantado de la UPC puede proponer y votar proyectos de mejora en
-los campus](/es/noticias/el-estudiantado-de-la-upc-puede-proponer-y-votar-
-proyectos-de-mejora-en-los-campus "El estudiantado de la UPC puede proponer y
-votar proyectos de mejora en los campus")
-
-La UPC impulsa un proceso participativo entre el estudiantado para que pueda
-proponer y votar proyectos de mejora en las infraestructuras de los campus por
-un valor total de 103.000 euros.
 
 [![](https://www.fib.upc.edu/sites/fib/files/styles/noticies_bxslider/public/unite_logo_per_noticia_1.png?itok=7VdVbhK_)](/es/noticias/unite-
 programa-de-profesorado-visitante-2025 "Unite! Programa de Profesorado
@@ -899,48 +917,35 @@ notícia](/es/node/add/proposta-de-noticia)
 
 ## Agenda
 
-Mar 01 Abr
+Vie 25 Abr
 
-[Sesión informativa de Másters de la FIB](/es/agenda/sesion-informativa-de-
-masters-de-la-fib)
+[Sesión informativa - Máster en Ingniería Informática
+(MEI)](/es/agenda/sesion-informativa-master-en-ingnieria-informatica-mei)
+
+__  12:00 - 13:00
+
+__  Sala d'actes Manuel Martí Recober
+
+Mar 29 Abr
+
+[Sesión informativa - Máster en Computación de Altas Prestaciones (MIRI)
+](/es/agenda/sesion-informativa-master-en-computacion-de-altas-prestaciones-
+miri)
+
+__  12:00 - 13:00
+
+__  Sala d'actes Manuel Martí Recober
+
+Mar 29 Abr
+
+[Sesión informativa - Máster en Ciencia de Datos (MDS)](/es/agenda/sesion-
+informativa-master-en-ciencia-de-datos-mds)
 
 __  16:00 - 17:00
 
 __  Sala d'actes Manuel Martí Recober
 
-Jue 03 Abr
-
-[Introducción a las carreras de orientación en el Campus
-Nord](/es/agenda/introduccion-las-carreras-de-orientacion-en-el-campus-nord)
-
-__  18:30 - 21:30
-
-Sáb 05 Abr
-
-[Jornada de puertas abiertas GEI](/es/agenda/jornada-de-puertas-abiertas-
-gei-1)
-
-__  10:00 - 11:30
-
-__  Sala d'actes Manuel Martí Recober
-
 [Consulta toda la agenda ](/es/agenda)
-
-Próximas convocatorias de movilidad internacional para estudiantes de la FIB
-
-[__Solicitud para el National Institute of Informatics (NII) de Tokyo - 1a
-convocatoria](/es/movilidad/outgoing/calendario-movilidad/solicitud-para-el-
-national-institute-informatics-nii-de-tokyo-1a-convocatoria)
-
-__21 Feb 25 - 07 Abr 25
-
-[__Google Summer of Code](/es/movilidad/outgoing/calendario-movilidad/google-
-summer-code)
-
-__24 Mar 25 - 08 Abr 25
-
-[Consulta todas las convocatorias de movilidad
-](/es/movilidad/outgoing/calendario-movilidad)
 
 ## Pide cita previa
 

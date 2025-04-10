@@ -6,9 +6,9 @@ Pasar al contenido principal
   * [__](https://www.youtube.com/user/mediafib)
   * [__](https://www.instagram.com/fib.upc/)
 
-  * [Català](/ca/la-fib/la-facultat/govern "Govern ")
-  * [English](/en/fib/school/governance "Governance")
-  * [Español](/es/la-fib/la-facultad/gobierno "Gobierno")
+  * [Català](/ca/noticies/premi-upc-la-qualitat-de-la-gestio-universitaria-2025 "Premi UPC a la Qualitat de la Gestió Universitària, 2025")
+  * English
+  * [Español](/es/noticias/premio-upc-la-calidad-en-la-gestion-universitaria-2025 "Premio UPC a la Calidad en la Gestión Universitaria, 2025")
 
   * [__  Contacto](/es/contact)
   * [Racó](https://raco.fib.upc.edu)
@@ -715,157 +715,127 @@ __
       * [Evaluación de las titulaciones](/es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones)
       * [Datos estadísticos](/es/la-fib/sistema-de-calidad/datos-estadisticos)
 
-# Gobierno
+# Premio UPC a la Calidad en la Gestión Universitaria, 2025
 
 ## Usted está aquí
 
-[Inicio](/es) » [La FIB](/es/la-fib) » [La Facultad](/es/la-fib/la-facultad) »
-Gobierno
+[Inicio](/es) » [Notícias](/es/noticias) » Premio UPC a la Calidad en la
+Gestión Universitaria, 2025
 
-  * [La facultad en cifras](/es/la-fib/la-facultad/la-facultad-en-cifras)
-  * [¿Donde estamos?](/es/la-fib/la-facultad/donde-estamos)
-  * [Gobierno](/es/la-fib/la-facultad/gobierno)
-    * [Dirección](/es/la-fib/la-facultad/gobierno/direccion)
-    * [Junta de Facultad](/es/la-fib/la-facultad/gobierno/junta-de-facultad)
-    * [Comisión Permanente](/es/la-fib/la-facultad/gobierno/comision-permanente)
-    * [CAA](/es/la-fib/la-facultad/gobierno/caa)
-    * [CQ](/es/la-fib/la-facultad/gobierno/cq)
-    * [CAGEI](/es/la-fib/la-facultad/gobierno/cagei)
-    * [CACFI](/es/la-fib/la-facultad/gobierno/cacfi)
-    * [CACOCFFI](/es/la-fib/la-facultad/gobierno/cacocffi)
-    * [CACFinal](/es/la-fib/la-facultad/gobierno/cacfinal)
-    * [CAGCED](/es/la-fib/la-facultad/gobierno/cagced)
-    * [CACFIGCED](/es/la-fib/la-facultad/gobierno/cacfigced)
-    * [CACOGCED](/es/la-fib/la-facultad/gobierno/cacogced)
-    * [CACFGCED](/es/la-fib/la-facultad/gobierno/cacfgced)
-    * [CAGIA](/es/la-fib/la-facultad/gobierno/cagia)
-    * [CACGIA](/es/la-fib/la-facultad/gobierno/cacgia)
-    * [CAMEI](/es/la-fib/la-facultad/gobierno/camei)
-    * [CAMIRI](/es/la-fib/la-facultad/gobierno/camiri)
-    * [CAMAI](/es/la-fib/la-facultad/gobierno/camai)
-    * [CAMSEC](/es/la-fib/la-facultad/gobierno/camsec)
-    * [CAMDS](/es/la-fib/la-facultad/gobierno/camds)
-    * [CACFIBBI](/es/la-fib/la-facultad/gobierno/cacfibbi)
-  * [Personal](/es/la-fib/la-facultad/personal)
-  * [Premios y Reconocimientos](/es/la-fib/la-facultad/premios-y-reconocimientos)
-  * [Actes Acadèmics](/es/la-fib/la-facultad/actos-academicos)
+> Premio UPC a la Qualitat de la Gestió Universitària amb l'objectiu
+> reconèixer i incentivar la gestió de qualitat dins l'activitat desenvolupada
+> pel PTGAS
+>
+> __Martes 08 Abril 2025
 
-## Órganos de Gobierno
+![Premi UPC a la Qualitat de la Gestió
+universitària](https://www.fib.upc.edu/sites/fib/files/styles/large/public/premi_upc_a_la_qualitat_de_la_gestio_universitaria_w.png?itok=HQDMBkYB)
 
-[Dirección](/es/la-fib/la-facultad/gobierno/direccion)
+El [**Premio UPC a la Calidad de la Gestión
+Universitaria**](https://www.upc.edu/consellsocial/ca/els-premis/premi-upc-
+qualitat-de-la-gestio-universitaria), impulsado por el **Consejo Social de la
+UPC** , tiene como objetivo reconocer y apoyar el trabajo de calidad realizado
+por el personal técnico, de gestión, administración y servicios (PTGAS) de la
+**Universidad Politécnica de Cataluña**. Este galardón tiene como finalidad
+promover la mejora continua a través de prácticas innovadoras y eficientes,
+que hayan demostrado un impacto positivo en la calidad de la gestión
+universitaria.
 
-[Junta de Facultad](/es/la-fib/la-facultad/gobierno/junta-de-facultad)
+Para optar al **Premio UPC a la Calidad de la Gestión Universitaria** , la
+práctica presentada debe seguir el ciclo de **planificación, ejecución y
+revisión** , dentro de un marco orientado a obtener resultados, atender a las
+personas usuarias e impulsar la **mejora continua**. En esta edición, se dará
+un énfasis especial a los proyectos que fomenten una **gestión universitaria
+más saludable, inclusiva e innovadora** , promoviendo la **colaboración y
+comunicación interna** para conseguir un entorno de trabajo más **eficiente y
+participativo**.
 
-[Comisión Permanente](/es/la-fib/la-facultad/gobierno/comision-permanente)
+Se valorarán especialmente las iniciativas alineadas con las siguientes líneas
+de trabajo:
 
-### Reglamento de la FIB
+  * **Empresa saludable** : proyectos que promuevan el bienestar físico, mental y social del personal, creando un ambiente de trabajo saludable.
 
-[Reglament de la FIB](/sites/fib/files/documents/fib/reglament_fib_2013.pdf)
+  * **Perspectiva de género** : iniciativas que fomenten la igualdad de oportunidades e integren la perspectiva de género en la gestión universitaria.
 
-(Consell de Govern: 28/05/2013)
+  * **Integración de personas con diversidad funcional** : acciones que garanticen la inclusión y accesibilidad para todos, favoreciendo la igualdad de oportunidades.
 
-[Addenda al reglament de la
-FIB](/sites/fib/files/documents/fib/delegacio_de_competencies.pdf)
+  * **Comunicación y colaboración interna** : proyectos que mejoren la coordinación y comunicación entre unidades y servicios, promoviendo una gestión más eficiente y participativa.
 
-(delegació competències Junta)
+Consulta las bases de la [convocatoria](http://chrome-
+extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.upc.edu/consellsocial/ca/els-
+premis/premi-upc-qualitat-de-la-gestio-universitaria/fitxers/bases-10epremi-
+qualitatgestiouniv-2025.pdf)
 
-[Addenda al reglament de la
-FIB](/sites/fib/files/documents/actes/creacio_de_comissions_especifiques.pdf)
+  * __Recent
+  * __Popular
 
-(creació de comissions específiques)
+  * [![](https://www.fib.upc.edu/sites/fib/files/styles/media_thumbnail/public/sessio_informativa_de_les_especialitats_del_gei.png?itok=FCicWWUx)](/es/noticias/sesion-de-especialidades-del-grado-en-ingenieria-informatica-2025)
 
-![](/sites/fib/files/images/fib/govern/diagrama_gobierno.png)
+[Sesión de especialidades del Grado en Ingeniería Informática
+2025](/es/noticias/sesion-de-especialidades-del-grado-en-ingenieria-
+informatica-2025)
 
-## Comisiones específicas
+10 Abr 25
 
-[CAA](/es/la-fib/la-facultad/gobierno/caa)
+  * [![](https://www.fib.upc.edu/sites/fib/files/styles/media_thumbnail/public/odisseu_2025.png?itok=gb1a03cZ)](/es/noticias/practicum-odisseu-curso-2024-2025)
 
-Comisión de Evaluación Académica
+[Prácticum ODISSEU curso 2024-2025](/es/noticias/practicum-odisseu-
+curso-2024-2025)
 
-[CQ](/es/la-fib/la-facultad/gobierno/cq)
+08 Abr 25
 
-Comisión de Calidad
+  * [![Premi UPC a la Qualitat de la Gestió universitària](https://www.fib.upc.edu/sites/fib/files/styles/media_thumbnail/public/premi_upc_a_la_qualitat_de_la_gestio_universitaria_w.png?itok=0Nan-8qb)](/es/noticias/premio-upc-la-calidad-en-la-gestion-universitaria-2025)
 
-### Comisiones Académicas
+[Premio UPC a la Calidad en la Gestión Universitaria,
+2025](/es/noticias/premio-upc-la-calidad-en-la-gestion-universitaria-2025)
 
-[CAGEI](/es/la-fib/la-facultad/gobierno/cagei)
+08 Abr 25
 
-Grado en Ingeniería Informática
+  * [![](https://www.fib.upc.edu/sites/fib/files/styles/media_thumbnail/public/cartell_orles_2025_v2.jpeg?itok=0NiN9qbA)](/es/noticias/orla-2024-2025-segunda-convocatoria)
 
-[CAGCED](/es/la-fib/la-facultad/gobierno/cagced)
+[Orla 2024-2025 (segunda convocatoria)](/es/noticias/orla-2024-2025-segunda-
+convocatoria)
 
-Grado en Ciencia e Ingeniería de Datos
+08 Abr 25
 
-[CAGIA](/es/la-fib/la-facultad/gobierno/cagia)
+  * [![](https://www.fib.upc.edu/sites/fib/files/styles/media_thumbnail/public/vacances_setmanasanta_2025w.png?itok=ULdNKeIK)](/es/noticias/semana-santa-2025)
 
-Grado en Inteligencia Artificial
+[Semana Santa 2025](/es/noticias/semana-santa-2025)
 
-[CAMEI](/es/la-fib/la-facultad/gobierno/camei)
+08 Abr 25
 
-Máster en Ingeniería Informática
+  * [![](https://www.fib.upc.edu/sites/fib/files/styles/media_thumbnail/public/logo-gamejambarcelona2017.png?itok=2xd3AN94)](/es/noticias/game-jam-barcelona-upc-2017)
 
-[CAMAI](/es/la-fib/la-facultad/gobierno/camai)
+[Game Jam Barcelona @ UPC 2017](/es/noticias/game-jam-barcelona-upc-2017)
 
-Master in Artificial Intelligence
+31 Ene 17
 
-[CAMIRI](/es/la-fib/la-facultad/gobierno/camiri)
+  * [![](https://www.fib.upc.edu/sites/fib/files/styles/media_thumbnail/public/i2p-2017.png?itok=3x2IfqG3)](/es/noticies/i2p-course-master-students)
 
-Máster en Innovación e Investigación en Informática
+[I2P Course for Master Students](/es/noticies/i2p-course-master-students)
 
-[CAMSEC](/es/la-fib/la-facultad/gobierno/camsec)
+01 Feb 17
 
-Máster universitario en Formación del Profesorado de Educación Secundaria
-Obligatoria y Bachillerato, Formación Profesional y Enseñanza de Idiomas
+  * [![](https://www.fib.upc.edu/sites/fib/files/styles/media_thumbnail/public/esecretaria_pantalles.png?itok=wWF2uHmQ)](/es/noticias/mejoras-en-el-proceso-de-matricula)
 
-[CAMDS](/es/la-fib/la-facultad/gobierno/camds)
+[Mejoras en el proceso de matrícula](/es/noticias/mejoras-en-el-proceso-de-
+matricula)
 
-Master in Data Science
+01 Feb 17
 
-### Comisiones de Evaluación Curricular del Grado en Ingeniería Informática
+  * [![](https://www.fib.upc.edu/sites/fib/files/styles/media_thumbnail/public/visitahp2017.jpg?itok=tJk2gYbI)](/es/noticias/visita-de-alumnos-de-la-fib-las-instalaciones-de-hp)
 
-[CACFI](/es/la-fib/la-facultad/gobierno/cacfi)
+[Visita de alumnos de la FIB a las instalaciones de HP](/es/noticias/visita-
+de-alumnos-de-la-fib-las-instalaciones-de-hp)
 
-Fase Inicial
+02 Feb 17
 
-[CACOCFFI](/es/la-fib/la-facultad/gobierno/cacocffi)
+  * [![](https://www.fib.upc.edu/sites/fib/files/styles/media_thumbnail/public/datathonuniversityhack-2017.png?itok=H-tHkATI)](/es/noticias/cajamar-universityhack-2017-datathon)
 
-Asignaturas Obligatorias Comunes Fuera de la Fase Inicial
+[Cajamar UniversityHack 2017 Datathon](/es/noticias/cajamar-
+universityhack-2017-datathon)
 
-[CACFinal](/es/la-fib/la-facultad/gobierno/cacfinal)
-
-Final
-
-### Comisiones de Evaluación Curricular del Grado en Ciencias e Ingeniería de
-Datos
-
-[CACFIGCED](/es/la-fib/la-facultad/gobierno/cacfigced)
-
-Fase Inicial
-
-[CACOGCED](/es/la-fib/la-faCultad/gobierno/cacoGCED)
-
-Asignaturas Obligatorias de 2º y 3º
-
-[CACFGCED](/es/la-fib/la-facultad/gobierno/cacfGCED)
-
-Final
-
-### Comisiones de Evaluación Curricular del Grado en Inteligencia Artificial
-
-[CACGIA](/es/la-fib/la-facultad/gobierno/cacgia)
-
-Comisión de Evaluación Curricular
-
-[__](https://www.fib.upc.edu/es/la-fib/vida-universitaria/asociaciones#16778)
-
-### DEFIB
-
-Es el órgano de coordinación de los representantes de los estudiantes de grado
-y máster universitario dentro del ámbito de la Facultad de Informática de
-Barcelona.
-
-[Reglamento, texto consolidado](/sites/fib/files/documents/fib/reglament-de-
-regim-intern-de-defib-2021-07-22.pdf)
+02 Feb 17
 
 ## Dónde estamos
 
