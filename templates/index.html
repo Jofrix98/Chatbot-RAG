@@ -7,25 +7,34 @@
     <style>
         body {
             font-family: 'Helvetica Neue', Arial, sans-serif;
-            background-color: #202123; /* Fondo oscuro como Grok/ChatGPT */
+            background-color: #1a1a1a; /* Fondo oscuro como en la captura */
             color: #d1d5db; /* Texto claro */
             margin: 0;
-            padding: 0;
+            padding: 20px 0; /* Añadimos padding vertical para el título */
             display: flex;
+            flex-direction: column; /* Cambiamos a columna para apilar título y chat */
             justify-content: center;
             align-items: center;
             min-height: 100vh;
+        }
+
+        h1 {
+            color: #d1d5db; /* Color claro para el título */
+            font-size: 2.5rem; /* Tamaño grande para el h1 */
+            margin-bottom: 20px; /* Espacio entre el título y el chat */
+            text-align: center;
+            text-transform: uppercase; /* Mayúsculas para que coincida con el estilo */
+            letter-spacing: 2px; /* Espaciado entre letras para un look moderno */
         }
 
         #chat {
             width: 100%;
             max-width: 800px;
             height: 85vh;
-            background-color: #242528; /* Gris oscuro para el contenedor */
-            border-radius: 8px;
+            background-color: #2a2a2a; /* Gris oscuro para el contenedor */
+            border-radius: 10px;
             display: flex;
             flex-direction: column;
-            box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
             overflow: hidden;
         }
 
@@ -33,7 +42,7 @@
             flex: 1;
             padding: 20px;
             overflow-y: auto;
-            background-color: #40414f; /* Fondo de mensajes */
+            background-color: #2a2a2a; /* Fondo de mensajes */
         }
 
         .message {
@@ -43,17 +52,18 @@
             max-width: 85%;
             font-size: 16px;
             line-height: 1.5;
+            white-space: pre-wrap; /* Esto respeta los saltos de línea (\n) */
         }
 
         .user {
-            background-color: #4f46e5; /* Azul índigo para el usuario, como Grok */
+            background-color: #3b82f6; /* Azul como en la captura */
             color: white;
             margin-left: auto;
             text-align: left;
         }
 
         .bot {
-            background-color: #444654; /* Gris oscuro para el bot, como ChatGPT */
+            background-color: #3f3f3f; /* Gris oscuro para el bot */
             color: #d1d5db;
             margin-right: auto;
             text-align: left;
@@ -61,8 +71,8 @@
 
         .input-container {
             padding: 15px;
-            background-color: #343541;
-            border-top: 1px solid #565869;
+            background-color: #2a2a2a;
+            border-top: 1px solid #444;
             display: flex;
             align-items: center;
         }
@@ -71,23 +81,22 @@
             flex: 1;
             padding: 12px 15px;
             font-size: 16px;
-            background-color: #40414f;
+            background-color: #3f3f3f;
             color: #d1d5db;
             border: none;
             border-radius: 5px;
             outline: none;
             margin-right: 10px;
-            resize: none; /* Evita que se redimensione */
         }
 
         #question:focus {
-            box-shadow: 0 0 0 1px #4f46e5; /* Borde azul al enfocar */
+            box-shadow: 0 0 0 1px #3b82f6; /* Borde azul al enfocar */
         }
 
         button {
             padding: 12px 20px;
             font-size: 16px;
-            background-color: #4f46e5; /* Azul índigo */
+            background-color: #3b82f6; /* Azul como en la captura */
             color: white;
             border: none;
             border-radius: 5px;
@@ -96,11 +105,11 @@
         }
 
         button:hover {
-            background-color: #4338ca; /* Tono más oscuro al pasar el ratón */
+            background-color: #2563eb; /* Tono más oscuro al pasar el ratón */
         }
 
         button:active {
-            background-color: #3730a3;
+            background-color: #1d4ed8;
         }
 
         /* Scrollbar estilizado */
@@ -109,16 +118,17 @@
         }
 
         #messages::-webkit-scrollbar-thumb {
-            background-color: #565869;
+            background-color: #444;
             border-radius: 3px;
         }
 
         #messages::-webkit-scrollbar-thumb:hover {
-            background-color: #6b7280;
+            background-color: #555;
         }
     </style>
 </head>
 <body>
+    <h2>Pregúntame Algo</h2>
     <div id="chat">
         <div id="messages"></div>
         <div class="input-container">
@@ -128,6 +138,13 @@
     </div>
 
     <script>
+        // Mostrar mensaje de presentación al cargar la página
+        window.onload = function() {
+            const messages = document.getElementById("messages");
+            messages.innerHTML += `<div class="message bot">📄🧠 Soy un asistente que busca información por ti.</div>`;
+            messages.scrollTop = messages.scrollHeight; // Desplazar al final
+        };
+
         async function sendQuestion() {
             const question = document.getElementById("question").value;
             if (!question) return;
