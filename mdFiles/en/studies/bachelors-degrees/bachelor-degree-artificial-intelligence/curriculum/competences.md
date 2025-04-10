@@ -1,0 +1,329 @@
+## You are here
+
+[Home](en.md) » [Studies](en\\studies.md) » [Bachelor's
+degrees](en\\studies\\bachelors-degrees.md) » [Bachelor Degree in Artificial
+Intelligence](en\\studies\\bachelors-degrees\\bachelor-degree-artificial-
+intelligence.md) » [Curriculum](en\\studies\\bachelors-degrees\\bachelor-
+degree-artificial-intelligence\\curriculum.md) » Competences
+
+  * [Competences](en\\studies\\bachelors-degrees\\bachelor-degree-artificial-intelligence\\curriculum\\competences.md)
+  * [Competences for degree subjects](en\\studies\\bachelors-degrees\\bachelor-degree-artificial-intelligence\\curriculum\\competences-degree-subjects.md)
+  * [Syllabus](en\\studies\\bachelors-degrees\\bachelor-degree-artificial-intelligence\\curriculum\\syllabus.md)
+
+  * [Transversal Competences](en\\studies\\bachelors-degrees\\bachelor-degree-artificial-intelligence\\curriculum\\competences.md)
+  * [Generic Technical Competences](en\\studies\\bachelors-degrees\\bachelor-degree-artificial-intelligence\\curriculum\\competences.md)
+  * [Technical Competences](en\\studies\\bachelors-degrees\\bachelor-degree-artificial-intelligence\\curriculum\\competences.md)
+
+## Transversal Competences
+
+### TRANSVERSALS
+
+  * **CT1**  
+Entrepreneurship and innovation. Know and understand the organization of a
+company and the sciences that govern its activity; Have the ability to
+understand labor standards and the relationships between planning, industrial
+and commercial strategies, quality and profit.
+
+  * **CT2**  
+Sustainability and Social Commitment. To know and understand the complexity of
+economic and social phenomena typical of the welfare society; Be able to
+relate well-being to globalization and sustainability; Achieve skills to use
+in a balanced and compatible way the technique, the technology, the economy
+and the sustainability.
+
+  * **CT3**  
+Efficient oral and written communication. Communicate in an oral and written
+way with other people about the results of learning, thinking and decision
+making; Participate in debates on topics of the specialty itself.
+
+  * **CT4**  
+Teamwork. Be able to work as a member of an interdisciplinary team, either as
+a member or conducting management tasks, with the aim of contributing to
+develop projects with pragmatism and a sense of responsibility, taking
+commitments taking into account available resources.
+
+  * **CT5**  
+Solvent use of information resources. Manage the acquisition, structuring,
+analysis and visualization of data and information in the field of specialty
+and critically evaluate the results of such management.
+
+  * **CT6**  
+Autonomous Learning. Detect deficiencies in one's own knowledge and overcome
+them through critical reflection and the choice of the best action to extend
+this knowledge.
+
+  * **CT7**  
+Third language. Know a third language, preferably English, with an adequate
+oral and written level and in line with the needs of graduates.
+
+  * **CT8**  
+Gender perspective. An awareness and understanding of sexual and gender
+inequalities in society in relation to the field of the degree, and the
+incorporation of different needs and preferences due to sex and gender when
+designing solutions and solving problems.
+
+### BASIC
+
+  * **CB1**  
+That students have demonstrated to possess and understand knowledge in an area
+of ??study that starts from the base of general secondary education, and is
+usually found at a level that, although supported by advanced textbooks, also
+includes some aspects that imply Knowledge from the vanguard of their field of
+study.
+
+  * **CB2**  
+That the students know how to apply their knowledge to their work or vocation
+in a professional way and possess the skills that are usually demonstrated
+through the elaboration and defense of arguments and problem solving within
+their area of ??study.
+
+  * **CB3**  
+That students have the ability to gather and interpret relevant data (usually
+within their area of ??study) to make judgments that include a reflection on
+relevant social, scientific or ethical issues.
+
+  * **CB4**  
+That the students can transmit information, ideas, problems and solutions to a
+specialized and non-specialized public.
+
+  * **CB5**  
+That the students have developed those learning skills necessary to undertake
+later studies with a high degree of autonomy
+
+## Generic Technical Competences
+
+### GENERIC
+
+  * **CG1**  
+To ideate, draft, organize, plan and develop projects in the field of
+artificial intelligence.
+
+  * **CG2**  
+To use the fundamental knowledge and solid work methodologies acquired during
+the studies to adapt to the new technological scenarios of the future.
+
+  * **CG3**  
+To define, evaluate and select hardware and software platforms for the
+development and execution of computer systems, services and applications in
+the field of artificial intelligence.
+
+  * **CG4**  
+Reasoning, analyzing reality and designing algorithms and formulations that
+model it. To identify problems and construct valid algorithmic or mathematical
+solutions, eventually new, integrating the necessary multidisciplinary
+knowledge, evaluating different alternatives with a critical spirit,
+justifying the decisions taken, interpreting and synthesizing the results in
+the context of the application domain and establishing methodological
+generalizations based on specific applications.
+
+  * **CG5**  
+Work in multidisciplinary teams and projects related to artificial
+intelligence and robotics, interacting fluently with engineers and
+professionals from other disciplines.
+
+  * **CG6**  
+To identify opportunities for innovative applications of artificial
+intelligence and robotics in constantly evolving technological environments.
+
+  * **CG7**  
+To interpret and apply current legislation, as well as specifications,
+regulations and standards in the field of artificial intelligence.
+
+  * **CG8**  
+Perform an ethical exercise of the profession in all its facets, applying
+ethical criteria in the design of systems, algorithms, experiments, use of
+data, in accordance with the ethical systems recommended by national and
+international organizations, with special emphasis on security, robustness ,
+privacy, transparency, traceability, prevention of bias (race, gender,
+religion, territory, etc.) and respect for human rights.
+
+  * **CG9**  
+To face new challenges with a broad vision of the possibilities of a
+professional career in the field of Artificial Intelligence. Develop the
+activity applying quality criteria and continuous improvement, and act
+rigorously in professional development. Adapt to organizational or
+technological changes. Work in situations of lack of information and / or with
+time and / or resource restrictions.
+
+## Technical Competences
+
+### ESPECIFICS
+
+  * **CE01**  
+To be able to solve the mathematical problems that may arise in the field of
+artificial intelligence. Apply knowledge from: algebra, differential and
+integral calculus and numerical methods; statistics and optimization.
+
+  * **CE02**  
+To master the basic concepts of discrete mathematics, logic, algorithmic and
+computational complexity, and its application to the automatic processing of
+information through computer systems . To be able to apply all these for
+solving problems.
+
+  * **CE03**  
+To identify and apply the basic algorithmic procedures of computer
+technologies to design solutions to problems by analyzing the suitability and
+complexity of the proposed algorithms.
+
+  * **CE04**  
+To design and use efficiently the most appropriate data types and structures
+to solve a problem.
+
+  * **CE05**  
+To be able to analyze and evaluate the structure and architecture of
+computers, as well as the basic components that make them up.
+
+  * **CE06**  
+To be able to identify the features, functionalities and structure of
+Operating Systems and to design and implement applications based on their
+services.
+
+  * **CE07**  
+To interpret the characteristics, functionalities and structure of Distributed
+Systems, Computer Networks and the Internet and design and implement
+applications based on them.
+
+  * **CE08**  
+To detect the characteristics, functionalities and components of data
+managers, which allow the adequate use of them in information flows, and the
+design, analysis and implementation of applications based on them.
+
+  * **CE09**  
+To ideate, design and integrate intelligent data analysis systems with their
+application in production and service environments.
+
+  * **CE10**  
+To analyze, design, build and maintain applications in a robust, secure and
+efficient way, choosing the most appropriate paradigm and programming
+languages.
+
+  * **CE11**  
+To identify and apply the fundamental principles and basic techniques of
+parallel, concurrent, distributed and real-time programming.
+
+  * **CE12**  
+To master the fundamental principles and models of computing and to know how
+to apply them in order to interpret, select, assess, model, and create new
+concepts, theories, uses and technological developments related to artificial
+intelligence.
+
+  * **CE13**  
+To evaluate the computational complexity of a problem, identify algorithmic
+strategies that can lead to its resolution and recommend, develop and
+implement the one that guarantees the best performance in accordance with the
+established requirements.
+
+  * **CE14**  
+To master the foundations, paradigms and techniques of intelligent systems and
+to analyze, designing and build computer systems, services and applications
+that use these techniques in any field of application, including robotics.
+
+  * **CE15**  
+To acquire, formalize and represent human knowledge in a computable form for
+solving problems through a computer system in any field of application,
+particularly those related to aspects of computing, perception and performance
+in intelligent environments or environments.
+
+  * **CE16**  
+To design and evaluate human-machine interfaces that guarantee the
+accessibility and usability of computer systems, services and applications.
+
+  * **CE17**  
+To develop and evaluate interactive systems and presentation of complex
+information and its application to solving human-computer and human-robot
+interaction design problems.
+
+  * **CE18**  
+To acquire and develop computational learning techniques and to design and
+implement applications and systems that use them, including those dedicated to
+the automatic extraction of information and knowledge from large volumes of
+data.
+
+  * **CE19**  
+To use current computer systems, including high-performance systems, for the
+processing of large volumes of data from the knowledge of its structure,
+operation and particularities.
+
+  * **CE20**  
+To select and put to use techniques of statistical modeling and data analysis,
+assessing the quality of the models, validating and interpreting.
+
+  * **CE21**  
+To formulate and solve mathematical optimization problems.
+
+  * **CE22**  
+To represent, design and analyze dynamic systems. To acquire concepts such as
+observability, stability and controllability.
+
+  * **CE23**  
+To design controllers for dynamic systems that represent temporary physical
+phenomena in a real environment.
+
+  * **CE24**  
+To ideate, design and build intelligent robotic systems to be applied in
+production and service environments, and that have to be capable of
+interacting with people. Also, to create collaborative and social intelligent
+robotic systems.
+
+  * **CE25**  
+To ideate, design and integrate mobile robots with autonomous navigation
+capability, fleet formation and interaction with humans.
+
+  * **CE26**  
+To design and apply techniques for processing and analyzing images and
+computer vision techniques in the area of artificial intelligence and robotics
+
+  * **CE27**  
+To design and apply speech processing techniques, speech recognition and human
+language comprehension, with application in social artificial intelligence.
+
+  * **CE28**  
+To plan, ideate, deploy and direct projects, services and systems in the field
+of artificial intelligence, leading its implementation and continuous
+improvement and assessing its economic and social impact.
+
+  * **CE29**  
+To elaborate, present and defend before a university committee an original
+exercise carried out individually, consisting of a project in the field of
+artificial intelligence, in which the skills acquired all along the courses in
+the career teaching are synthesized and integrated.
+
+## Where we are
+
+B6 Building Campus Nord  
+C/Jordi Girona Salgado,1-3  
+08034 BARCELONA Spain  
+Tel: (+34) 93 401 70 00
+
+[informacio@fib.upc.edu](informacio@fib.upc.edu.md)
+
+  * [__](en\\noticies\\rss.rss.md)
+  * [__](fib.upc.md)
+  * [__](fib_upc.md)
+  * [__](photos\\fib-upc\\albums.md)
+  * [__](user\\mediafib.md)
+  * [__](fib.upc.md)
+
+[![](/sites/fib/files/images/banner-suport-fib.jpg)](index.md)
+
+## Contact with us
+
+Your name *
+
+Your e-mail address *
+
+Subject *
+
+Category * \- Please choose -IT ServicesSuggestionsCongratulationsAcademic
+InformationMobility InformationMasters InformationSchool InformationNews for
+FIB websiteComplaints
+
+Message *
+
+Leave this field blank
+
+© Facultat d'Informàtica de Barcelona - Universitat Politècnica de Catalunya -
+[Website Disclaimer](en\\website-disclaimer.md) \- [Privacy
+Settings](en\\studies\\bachelors-degrees\\bachelor-degree-artificial-
+intelligence\\curriculum\\competences.md)
+

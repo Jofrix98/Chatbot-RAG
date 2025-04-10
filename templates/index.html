@@ -3,22 +3,168 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FastAPI Chatbot</title>
-    <link rel="stylesheet" href="/static/style.css">
+    <title>Chatbot</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            background-color: #202123; /* Fondo oscuro como Grok/ChatGPT */
+            color: #d1d5db; /* Texto claro */
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        #chat {
+            width: 100%;
+            max-width: 800px;
+            height: 85vh;
+            background-color: #343541; /* Gris oscuro para el contenedor */
+            border-radius: 8px;
+            display: flex;
+            flex-direction: column;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+            overflow: hidden;
+        }
+
+        #messages {
+            flex: 1;
+            padding: 20px;
+            overflow-y: auto;
+            background-color: #40414f; /* Fondo de mensajes */
+        }
+
+        .message {
+            margin: 15px 0;
+            padding: 12px 16px;
+            border-radius: 5px;
+            max-width: 85%;
+            font-size: 16px;
+            line-height: 1.5;
+        }
+
+        .user {
+            background-color: #4f46e5; /* Azul índigo para el usuario, como Grok */
+            color: white;
+            margin-left: auto;
+            text-align: left;
+        }
+
+        .bot {
+            background-color: #444654; /* Gris oscuro para el bot, como ChatGPT */
+            color: #d1d5db;
+            margin-right: auto;
+            text-align: left;
+        }
+
+        .input-container {
+            padding: 15px;
+            background-color: #343541;
+            border-top: 1px solid #565869;
+            display: flex;
+            align-items: center;
+        }
+
+        #question {
+            flex: 1;
+            padding: 12px 15px;
+            font-size: 16px;
+            background-color: #40414f;
+            color: #d1d5db;
+            border: none;
+            border-radius: 5px;
+            outline: none;
+            margin-right: 10px;
+            resize: none; /* Evita que se redimensione */
+        }
+
+        #question:focus {
+            box-shadow: 0 0 0 1px #4f46e5; /* Borde azul al enfocar */
+        }
+
+        button {
+            padding: 12px 20px;
+            font-size: 16px;
+            background-color: #4f46e5; /* Azul índigo */
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.2s;
+        }
+
+        button:hover {
+            background-color: #4338ca; /* Tono más oscuro al pasar el ratón */
+        }
+
+        button:active {
+            background-color: #3730a3;
+        }
+
+        /* Scrollbar estilizado */
+        #messages::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        #messages::-webkit-scrollbar-thumb {
+            background-color: #565869;
+            border-radius: 3px;
+        }
+
+        #messages::-webkit-scrollbar-thumb:hover {
+            background-color: #6b7280;
+        }
+    </style>
 </head>
 <body>
-    <div class="chat-container">
-        <div class="chat-header">
-            <h2>Chatbot</h2>
-        </div>
-        <div class="chat-messages" id="chat-messages">
-            <!-- Messages will be inserted here -->
-        </div>
-        <div class="chat-input-container">
-            <input type="text" id="message-input" placeholder="Type your message...">
-            <button id="send-button">Send</button>
+    <div id="chat">
+        <div id="messages"></div>
+        <div class="input-container">
+            <input type="text" id="question" placeholder="Escribe tu pregunta...">
+            <button onclick="sendQuestion()">Enviar</button>
         </div>
     </div>
-    <script src="/static/script.js"></script>
+
+    <script>
+        async function sendQuestion() {
+            const question = document.getElementById("question").value;
+            if (!question) return;
+
+            // Mostrar la pregunta en el chat
+            const messages = document.getElementById("messages");
+            messages.innerHTML += `<div class="message user">${question}</div>`;
+            messages.scrollTop = messages.scrollHeight; // Desplazar al final
+
+            try {
+                // Enviar la pregunta al backend
+                const response = await fetch("http://127.0.0.1:5000/ask", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ question })
+                });
+
+                if (!response.ok) throw new Error("Error en la respuesta del servidor");
+
+                const data = await response.json();
+
+                // Mostrar la respuesta del chatbot
+                if (data.contexto) {
+                    messages.innerHTML += `<div class="message bot">${data.contexto}</div>`;
+                } else {
+                    messages.innerHTML += `<div class="message bot">Error: ${data.error}</div>`;
+                }
+            } catch (error) {
+                messages.innerHTML += `<div class="message bot">Error: ${error.message}</div>`;
+            }
+
+            // Desplazar al final después de la respuesta
+            messages.scrollTop = messages.scrollHeight;
+
+            // Limpiar el input
+            document.getElementById("question").value = "";
+        }
+    </script>
 </body>
 </html>
