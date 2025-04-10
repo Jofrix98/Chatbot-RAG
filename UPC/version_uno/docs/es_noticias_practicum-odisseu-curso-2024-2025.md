@@ -6,9 +6,9 @@ Pasar al contenido principal
   * [__](https://www.youtube.com/user/mediafib)
   * [__](https://www.instagram.com/fib.upc/)
 
-  * [Català](/ca/la-fib/la-facultat/govern "Govern ")
-  * [English](/en/fib/school/governance "Governance")
-  * [Español](/es/la-fib/la-facultad/gobierno "Gobierno")
+  * [Català](/ca/noticies/practicum-odisseu-curs-2024-2025 "Pràcticum ODISSEU curs 2024-2025")
+  * English
+  * [Español](/es/noticias/practicum-odisseu-curso-2024-2025 "Prácticum ODISSEU curso 2024-2025")
 
   * [__  Contacto](/es/contact)
   * [Racó](https://raco.fib.upc.edu)
@@ -715,157 +715,111 @@ __
       * [Evaluación de las titulaciones](/es/la-fib/sistema-de-calidad/evaluacion-de-las-titulaciones)
       * [Datos estadísticos](/es/la-fib/sistema-de-calidad/datos-estadisticos)
 
-# Gobierno
+# Prácticum ODISSEU curso 2024-2025
 
 ## Usted está aquí
 
-[Inicio](/es) » [La FIB](/es/la-fib) » [La Facultad](/es/la-fib/la-facultad) »
-Gobierno
+[Inicio](/es) » [Notícias](/es/noticias) » Prácticum ODISSEU curso 2024-2025
 
-  * [La facultad en cifras](/es/la-fib/la-facultad/la-facultad-en-cifras)
-  * [¿Donde estamos?](/es/la-fib/la-facultad/donde-estamos)
-  * [Gobierno](/es/la-fib/la-facultad/gobierno)
-    * [Dirección](/es/la-fib/la-facultad/gobierno/direccion)
-    * [Junta de Facultad](/es/la-fib/la-facultad/gobierno/junta-de-facultad)
-    * [Comisión Permanente](/es/la-fib/la-facultad/gobierno/comision-permanente)
-    * [CAA](/es/la-fib/la-facultad/gobierno/caa)
-    * [CQ](/es/la-fib/la-facultad/gobierno/cq)
-    * [CAGEI](/es/la-fib/la-facultad/gobierno/cagei)
-    * [CACFI](/es/la-fib/la-facultad/gobierno/cacfi)
-    * [CACOCFFI](/es/la-fib/la-facultad/gobierno/cacocffi)
-    * [CACFinal](/es/la-fib/la-facultad/gobierno/cacfinal)
-    * [CAGCED](/es/la-fib/la-facultad/gobierno/cagced)
-    * [CACFIGCED](/es/la-fib/la-facultad/gobierno/cacfigced)
-    * [CACOGCED](/es/la-fib/la-facultad/gobierno/cacogced)
-    * [CACFGCED](/es/la-fib/la-facultad/gobierno/cacfgced)
-    * [CAGIA](/es/la-fib/la-facultad/gobierno/cagia)
-    * [CACGIA](/es/la-fib/la-facultad/gobierno/cacgia)
-    * [CAMEI](/es/la-fib/la-facultad/gobierno/camei)
-    * [CAMIRI](/es/la-fib/la-facultad/gobierno/camiri)
-    * [CAMAI](/es/la-fib/la-facultad/gobierno/camai)
-    * [CAMSEC](/es/la-fib/la-facultad/gobierno/camsec)
-    * [CAMDS](/es/la-fib/la-facultad/gobierno/camds)
-    * [CACFIBBI](/es/la-fib/la-facultad/gobierno/cacfibbi)
-  * [Personal](/es/la-fib/la-facultad/personal)
-  * [Premios y Reconocimientos](/es/la-fib/la-facultad/premios-y-reconocimientos)
-  * [Actes Acadèmics](/es/la-fib/la-facultad/actos-academicos)
+> Prácticas remuneradas en empresas, entidades o instituciones públicas de las
+> comarcas rurales Leader de Cataluña, durante el verano de 2025.
+>
+> __Martes 08 Abril 2025
 
-## Órganos de Gobierno
+![](https://www.fib.upc.edu/sites/fib/files/styles/large/public/odisseu_2025.png?itok=oVgv3PHB)
 
-[Dirección](/es/la-fib/la-facultad/gobierno/direccion)
+Abierto el plazo de presentación de candidaturas de estudiantes en el
+[**Pràcticum Odisseu**](https://www.odisseujove.cat/practicum-estudiants/).
+Durante este periodo, el estudiantado universitario podrá presentar su
+candidatura a alguna de las más de **200 ofertas de prácticas calificadas** en
+empresas y entidades de las comarcas rurales Leader de Cataluña.
 
-[Junta de Facultad](/es/la-fib/la-facultad/gobierno/junta-de-facultad)
+**Requisitos de participación:**
 
-[Comisión Permanente](/es/la-fib/la-facultad/gobierno/comision-permanente)
+  * La convocatoria del**Prácticum Odisseu** está dirigida a estudiantes matriculados en estudios oficiales de grado o máster. En el caso de estudiantes de grado, es necesario haber superado un mínimo del **50% de los créditos** en el momento de presentar la candidatura.
+  * El estudiante también debe cumplir los requisitos específicos que la empresa y/o institución ofertante especifique en la oferta de prácticas a la que desea presentar su candidatura, así como los requisitos establecidos por su universidad en cuanto a prácticas.
+  * El estudiante no puede haber tenido relación laboral contractual previa con la empresa y/o institución que ofrece las prácticas, excepto en aquellos casos en los que la experiencia laboral previa haya sido para realizar tareas totalmente diferentes de las que se llevarán a cabo en las prácticas.
 
-### Reglamento de la FIB
+Las ofertas se pueden consultar en el apartado de [**ofertas de prácticas
+disponibles**](http://www.odisseujove.cat/ofertes-de-practiques-2025/).
 
-[Reglament de la FIB](/sites/fib/files/documents/fib/reglament_fib_2013.pdf)
+**Más de 100 ofertas** con posibilidad de inserción laboral posterior a las
+prácticas si la experiencia es satisfactoria.
 
-(Consell de Govern: 28/05/2013)
+Los estudiantes pueden enviar sus candidaturas (máximo 3) **entre el 31 de
+marzo y el 24 de abril** , siguiendo estos
+[pasos](https://www.odisseujove.cat/envia-la-teva-candidatura/).
 
-[Addenda al reglament de la
-FIB](/sites/fib/files/documents/fib/delegacio_de_competencies.pdf)
+  * __Recent
+  * __Popular
 
-(delegació competències Junta)
+  * [![](https://www.fib.upc.edu/sites/fib/files/styles/media_thumbnail/public/sessio_informativa_de_les_especialitats_del_gei.png?itok=FCicWWUx)](/es/noticias/sesion-de-especialidades-del-grado-en-ingenieria-informatica-2025)
 
-[Addenda al reglament de la
-FIB](/sites/fib/files/documents/actes/creacio_de_comissions_especifiques.pdf)
+[Sesión de especialidades del Grado en Ingeniería Informática
+2025](/es/noticias/sesion-de-especialidades-del-grado-en-ingenieria-
+informatica-2025)
 
-(creació de comissions específiques)
+10 Abr 25
 
-![](/sites/fib/files/images/fib/govern/diagrama_gobierno.png)
+  * [![](https://www.fib.upc.edu/sites/fib/files/styles/media_thumbnail/public/odisseu_2025.png?itok=gb1a03cZ)](/es/noticias/practicum-odisseu-curso-2024-2025)
 
-## Comisiones específicas
+[Prácticum ODISSEU curso 2024-2025](/es/noticias/practicum-odisseu-
+curso-2024-2025)
 
-[CAA](/es/la-fib/la-facultad/gobierno/caa)
+08 Abr 25
 
-Comisión de Evaluación Académica
+  * [![Premi UPC a la Qualitat de la Gestió universitària](https://www.fib.upc.edu/sites/fib/files/styles/media_thumbnail/public/premi_upc_a_la_qualitat_de_la_gestio_universitaria_w.png?itok=0Nan-8qb)](/es/noticias/premio-upc-la-calidad-en-la-gestion-universitaria-2025)
 
-[CQ](/es/la-fib/la-facultad/gobierno/cq)
+[Premio UPC a la Calidad en la Gestión Universitaria,
+2025](/es/noticias/premio-upc-la-calidad-en-la-gestion-universitaria-2025)
 
-Comisión de Calidad
+08 Abr 25
 
-### Comisiones Académicas
+  * [![](https://www.fib.upc.edu/sites/fib/files/styles/media_thumbnail/public/cartell_orles_2025_v2.jpeg?itok=0NiN9qbA)](/es/noticias/orla-2024-2025-segunda-convocatoria)
 
-[CAGEI](/es/la-fib/la-facultad/gobierno/cagei)
+[Orla 2024-2025 (segunda convocatoria)](/es/noticias/orla-2024-2025-segunda-
+convocatoria)
 
-Grado en Ingeniería Informática
+08 Abr 25
 
-[CAGCED](/es/la-fib/la-facultad/gobierno/cagced)
+  * [![](https://www.fib.upc.edu/sites/fib/files/styles/media_thumbnail/public/vacances_setmanasanta_2025w.png?itok=ULdNKeIK)](/es/noticias/semana-santa-2025)
 
-Grado en Ciencia e Ingeniería de Datos
+[Semana Santa 2025](/es/noticias/semana-santa-2025)
 
-[CAGIA](/es/la-fib/la-facultad/gobierno/cagia)
+08 Abr 25
 
-Grado en Inteligencia Artificial
+  * [![](https://www.fib.upc.edu/sites/fib/files/styles/media_thumbnail/public/logo-gamejambarcelona2017.png?itok=2xd3AN94)](/es/noticias/game-jam-barcelona-upc-2017)
 
-[CAMEI](/es/la-fib/la-facultad/gobierno/camei)
+[Game Jam Barcelona @ UPC 2017](/es/noticias/game-jam-barcelona-upc-2017)
 
-Máster en Ingeniería Informática
+31 Ene 17
 
-[CAMAI](/es/la-fib/la-facultad/gobierno/camai)
+  * [![](https://www.fib.upc.edu/sites/fib/files/styles/media_thumbnail/public/i2p-2017.png?itok=3x2IfqG3)](/es/noticies/i2p-course-master-students)
 
-Master in Artificial Intelligence
+[I2P Course for Master Students](/es/noticies/i2p-course-master-students)
 
-[CAMIRI](/es/la-fib/la-facultad/gobierno/camiri)
+01 Feb 17
 
-Máster en Innovación e Investigación en Informática
+  * [![](https://www.fib.upc.edu/sites/fib/files/styles/media_thumbnail/public/esecretaria_pantalles.png?itok=wWF2uHmQ)](/es/noticias/mejoras-en-el-proceso-de-matricula)
 
-[CAMSEC](/es/la-fib/la-facultad/gobierno/camsec)
+[Mejoras en el proceso de matrícula](/es/noticias/mejoras-en-el-proceso-de-
+matricula)
 
-Máster universitario en Formación del Profesorado de Educación Secundaria
-Obligatoria y Bachillerato, Formación Profesional y Enseñanza de Idiomas
+01 Feb 17
 
-[CAMDS](/es/la-fib/la-facultad/gobierno/camds)
+  * [![](https://www.fib.upc.edu/sites/fib/files/styles/media_thumbnail/public/visitahp2017.jpg?itok=tJk2gYbI)](/es/noticias/visita-de-alumnos-de-la-fib-las-instalaciones-de-hp)
 
-Master in Data Science
+[Visita de alumnos de la FIB a las instalaciones de HP](/es/noticias/visita-
+de-alumnos-de-la-fib-las-instalaciones-de-hp)
 
-### Comisiones de Evaluación Curricular del Grado en Ingeniería Informática
+02 Feb 17
 
-[CACFI](/es/la-fib/la-facultad/gobierno/cacfi)
+  * [![](https://www.fib.upc.edu/sites/fib/files/styles/media_thumbnail/public/datathonuniversityhack-2017.png?itok=H-tHkATI)](/es/noticias/cajamar-universityhack-2017-datathon)
 
-Fase Inicial
+[Cajamar UniversityHack 2017 Datathon](/es/noticias/cajamar-
+universityhack-2017-datathon)
 
-[CACOCFFI](/es/la-fib/la-facultad/gobierno/cacocffi)
-
-Asignaturas Obligatorias Comunes Fuera de la Fase Inicial
-
-[CACFinal](/es/la-fib/la-facultad/gobierno/cacfinal)
-
-Final
-
-### Comisiones de Evaluación Curricular del Grado en Ciencias e Ingeniería de
-Datos
-
-[CACFIGCED](/es/la-fib/la-facultad/gobierno/cacfigced)
-
-Fase Inicial
-
-[CACOGCED](/es/la-fib/la-faCultad/gobierno/cacoGCED)
-
-Asignaturas Obligatorias de 2º y 3º
-
-[CACFGCED](/es/la-fib/la-facultad/gobierno/cacfGCED)
-
-Final
-
-### Comisiones de Evaluación Curricular del Grado en Inteligencia Artificial
-
-[CACGIA](/es/la-fib/la-facultad/gobierno/cacgia)
-
-Comisión de Evaluación Curricular
-
-[__](https://www.fib.upc.edu/es/la-fib/vida-universitaria/asociaciones#16778)
-
-### DEFIB
-
-Es el órgano de coordinación de los representantes de los estudiantes de grado
-y máster universitario dentro del ámbito de la Facultad de Informática de
-Barcelona.
-
-[Reglamento, texto consolidado](/sites/fib/files/documents/fib/reglament-de-
-regim-intern-de-defib-2021-07-22.pdf)
+02 Feb 17
 
 ## Dónde estamos
 
