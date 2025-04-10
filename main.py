@@ -25,7 +25,7 @@ def ask():
     # Construir el contexto de respuesta
     contexto = ""
     for doc, meta, dist in zip(results["documents"][0], results["metadatas"][0], results["distances"][0]):
-        contexto += '--------------------\n' + f"Con similitud a la pregunta = {dist}\n{doc}\n"
+        contexto += 'He encontrado esta información:\n\n' + f"Con similitud a la pregunta = {dist}\n{doc}\n"
 
     # Respuesta final
     respuesta = {
