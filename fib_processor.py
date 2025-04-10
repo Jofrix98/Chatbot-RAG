@@ -1,154 +1,81 @@
 import chromadb
 from sentence_transformers import SentenceTransformer
-import torch
 import markdown
 from bs4 import BeautifulSoup
 
-# Cargar modelo de embeddings (elige un modelo eficiente)
-embedding_model = SentenceTransformer("all-MiniLM-L6-v2")  # Rápido y preciso
-
-# Crear una función para generar embeddings sin OpenAI
-def compute_embedding(text):
-    return embedding_model.encode(text).tolist()
-
-# Cliente con persistencia en Colab
-chroma_client = chromadb.PersistentClient(path="/content/chromadb_data")
-
-# Eliminar la colección si ya existe
-collection_name = "fib_web_data"
-
-# Obtener la colección (sin eliminarla completamente)
-collection = chroma_client.get_or_create_collection(name=collection_name)
-
-# Eliminar todos los documentos existentes en la colección en lotes
-batch_size = 166  # Tamaño máximo permitido por ChromaDB
-all_ids = collection.get()["ids"]
-if all_ids:
-    for i in range(0, len(all_ids), batch_size):
-        batch_ids = all_ids[i:i + batch_size]
-        collection.delete(ids=batch_ids)
-        print(f"✅ Se eliminaron {len(batch_ids)} documentos del lote {i // batch_size + 1}.")
-    print(f"✅ Se eliminaron todos los documentos de la colección.")
-else:
-    print("⚠️ No había documentos previos en la colección.")
-
-
-
-# 🔹 Lista de archivos a procesar
-file_paths = [
-    "mdFiles/ca.md",
-    "mdFiles/en.md",
-    "mdFiles/es.md",
-    "mdFiles/index.md"
-]
-
-# 🔹 Configurar ChromaDB
-chroma_client = chromadb.PersistentClient(path="/content/chromadb_data")
-collection_name = "fib_web_data"
-
-# 🔹 Eliminar la colección si ya existe para evitar duplicados
-try:
-    chroma_client.delete_collection(collection_name)
-    print(f"✅ Colección '{collection_name}' eliminada antes de insertar nuevos datos.")
-except:
-    print(f"⚠️ La colección '{collection_name}' no existía.")
-
-# 🔹 Crear una nueva colección limpia
-collection = chroma_client.get_or_create_collection(name=collection_name)
-
-# 🔹 Cargar modelo de embeddings local
+# Cargar modelo de embeddings
 embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
 
+# Cliente ChromaDB
+chroma_client = chromadb.PersistentClient(path="./chromadb_data")  # Cambia a un path local
+collection_name = "fib_web_data"
+collection = chroma_client.get_or_create_collection(name=collection_name)
+
+# Funciones
 def compute_embedding(text):
     """Genera embeddings para el texto usando Sentence Transformers."""
     return embedding_model.encode(text).tolist()
 
-def chunk_text(text, chunk_size=200, overlap=25):
-    """
-    Divide el texto en fragmentos de tamaño 'chunk_size' con un solapamiento 'overlap'.
-    Garantiza que el solapamiento sea efectivo incluso en los últimos fragmentos.
-    """
-    chunks = []
-    start = 0
-    num_chunks = 0
-
-    while start < len(text):
-        end = min(start + chunk_size, len(text))  # Asegura que no exceda el tamaño total
-        chunk = text[start:end]
-
-        # Evitar fragmentos vacíos en los últimos trozos del texto
-        if chunk:
-            chunks.append(chunk)
-            num_chunks += 1
-
-        start += chunk_size - overlap  # Desplazamiento con solapamiento
-
-    print(f"✅ Número de fragmentos generados: {num_chunks} para este archivo.")
-    return chunks
-
 def md_to_text(md_content):
     """Convierte Markdown a texto plano sin etiquetas HTML."""
-    html = markdown.markdown(md_content)  # Convierte Markdown a HTML
-    soup = BeautifulSoup(html, "html.parser")  # Elimina etiquetas HTML
+    html = markdown.markdown(md_content)
+    soup = BeautifulSoup(html, "html.parser")
     return soup.get_text()
 
-# 🔹 Procesar múltiples archivos
-for file_path in file_paths:
+def chunk_text(text, chunk_size=200, overlap=25):
+    """Divide el texto en fragmentos con solapamiento."""
+    chunks = []
+    start = 0
+    while start < len(text):
+        end = min(start + chunk_size, len(text))
+        chunk = text[start:end]
+        if chunk:
+            chunks.append(chunk)
+        start += chunk_size - overlap
+    return chunks
+
+def initialize_collection():
+    """Inicializa la colección ChromaDB con los archivos Markdown."""
+    # Lista de archivos a procesar
+    file_paths = [
+        "mdFiles/ca.md",
+        "mdFiles/en.md",
+        "mdFiles/es.md",
+        "mdFiles/index.md"
+    ]
+
+    # Eliminar colección existente para evitar duplicados
     try:
-        with open(file_path, "r", encoding="utf-8") as f:
-            markdown_text = f.read()
+        chroma_client.delete_collection(collection_name)
+        print(f"✅ Colección '{collection_name}' eliminada antes de insertar nuevos datos.")
+    except:
+        print(f"⚠️ La colección '{collection_name}' no existía.")
 
-        # Convertir Markdown a texto limpio
-        plain_text = md_to_text(markdown_text)
+    # Crear nueva colección
+    global collection
+    collection = chroma_client.get_or_create_collection(name=collection_name)
 
-        # Dividir en chunks con overlapping
-        chunks = chunk_text(plain_text)
+    # Procesar archivos
+    for file_path in file_paths:
+        try:
+            with open(file_path, "r", encoding="utf-8") as f:
+                markdown_text = f.read()
+            plain_text = md_to_text(markdown_text)
+            chunks = chunk_text(plain_text)
+            print(f"📄 Procesando archivo: {file_path}")
+            for i, chunk in enumerate(chunks):
+                collection.add(
+                    ids=[f"{file_path}_chunk_{i}"],
+                    documents=[chunk],
+                    metadatas=[{"chunk_id": i, "source_file": file_path}],
+                    embeddings=[compute_embedding(chunk)]
+                )
+            print(f"✅ Archivo {file_path} procesado y guardado en ChromaDB.\n")
+        except Exception as e:
+            print(f"⚠️ Error procesando el archivo {file_path}: {e}")
 
-        print(f"📄 Procesando archivo: {file_path}")
+# Inicializar la colección al importar el módulo (solo se ejecuta una vez)
+initialize_collection()
 
-        # Agregar los fragmentos con embeddings a ChromaDB
-        for i, chunk in enumerate(chunks):
-            collection.add(
-                ids=[f"{file_path}_chunk_{i}"],  # ID único basado en el nombre del archivo
-                documents=[chunk],
-                metadatas=[{"chunk_id": i, "source_file": file_path}],
-                embeddings=[compute_embedding(chunk)]
-            )
-
-        print(f"✅ Archivo {file_path} procesado y guardado en ChromaDB.\n")
-
-    except Exception as e:
-        print(f"⚠️ Error procesando el archivo {file_path}: {e}")
-
-
-# =========================================================================================
-#                                       REALIZAR PREGUNTAS
-# =========================================================================================
-inicio = "Eres un chatbot basado en la información de la FIB."
-contexto_ini = "La respuesta a la pregunta que hará el usuario puede estar contenida en los siguiente textos separados por líeas horizontales.\n\n" # Guardamos la pregunta en una variable
-
-while True:
-    print("Escribe 'salir' para terminar la conversación.")
-    # Preguntar al usuario
-    pregunta = input("Pregunta: " + " ")  # Mostramos la pregunta y capturamos la respuesta
-    if pregunta.lower() == "salir":
-        break  # Salir del bucle si el usuario escribe 'salir'
-
-    # pregunta = input("Pregunta: " + " ")  # Mostramos la pregunta y capturamos la respuesta
-    query_text = pregunta  # Mostramos la pregunta y capturamos la respuesta
-
-    # Obtener embedding de la consulta
-    query_embedding = compute_embedding(query_text)
-
-    # Buscar en ChromaDB los fragmentos más relevantes
-    results = collection.query(
-        query_embeddings=[query_embedding],
-        n_results=1
-    )
-    # Mostrar los resultados
-    contexto = ""
-    for doc, meta, dist in zip(results["documents"][0], results["metadatas"][0], results["distances"][0]):
-        contexto += '--------------------\n' + "Con similitud a la pregunta = " + f"{dist}\n" + f"{doc}\n"
-
-    prompt = inicio + "\n\n" + contexto_ini + "\n\n" + contexto + "\n\n" + "Pregunta del usuario: " + query_text
-    print(prompt)
+# Exportar variables y funciones necesarias
+__all__ = ["compute_embedding", "collection"]
