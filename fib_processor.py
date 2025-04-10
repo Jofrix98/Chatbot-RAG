@@ -124,24 +124,31 @@ for file_path in file_paths:
 # =========================================================================================
 #                                       REALIZAR PREGUNTAS
 # =========================================================================================
-pregunta = input("Pregunta: " + " ")  # Mostramos la pregunta y capturamos la respuesta
-
 inicio = "Eres un chatbot basado en la información de la FIB."
 contexto_ini = "La respuesta a la pregunta que hará el usuario puede estar contenida en los siguiente textos separados por líeas horizontales.\n\n" # Guardamos la pregunta en una variable
-query_text = input("Pregunta: ")  # Mostramos la pregunta y capturamos la respuesta
 
-# Obtener embedding de la consulta
-query_embedding = compute_embedding(query_text)
+while True:
+    print("Escribe 'salir' para terminar la conversación.")
+    # Preguntar al usuario
+    pregunta = input("Pregunta: " + " ")  # Mostramos la pregunta y capturamos la respuesta
+    if pregunta.lower() == "salir":
+        break  # Salir del bucle si el usuario escribe 'salir'
 
-# Buscar en ChromaDB los fragmentos más relevantes
-results = collection.query(
-    query_embeddings=[query_embedding],
-    n_results=10
-)
-# Mostrar los resultados
-contexto = ""
-for doc, meta, dist in zip(results["documents"][0], results["metadatas"][0], results["distances"][0]):
-    contexto += '--------------------\n' + "Con similitud a la pregunta = " + f"{dist}\n" + f"{doc}\n"
+    # pregunta = input("Pregunta: " + " ")  # Mostramos la pregunta y capturamos la respuesta
+    query_text = pregunta  # Mostramos la pregunta y capturamos la respuesta
 
-prompt = inicio + "\n\n" + contexto_ini + "\n\n" + contexto + "\n\n" + "Pregunta del usuario: " + query_text
-print(prompt)
+    # Obtener embedding de la consulta
+    query_embedding = compute_embedding(query_text)
+
+    # Buscar en ChromaDB los fragmentos más relevantes
+    results = collection.query(
+        query_embeddings=[query_embedding],
+        n_results=1
+    )
+    # Mostrar los resultados
+    contexto = ""
+    for doc, meta, dist in zip(results["documents"][0], results["metadatas"][0], results["distances"][0]):
+        contexto += '--------------------\n' + "Con similitud a la pregunta = " + f"{dist}\n" + f"{doc}\n"
+
+    prompt = inicio + "\n\n" + contexto_ini + "\n\n" + contexto + "\n\n" + "Pregunta del usuario: " + query_text
+    print(prompt)

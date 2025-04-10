@@ -15,3 +15,5 @@ pdf2image
 pytesseract
 Pillow
 bs4
+flask
+flask-cors
