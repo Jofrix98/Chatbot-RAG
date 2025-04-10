@@ -143,11 +143,5 @@ contexto = ""
 for doc, meta, dist in zip(results["documents"][0], results["metadatas"][0], results["distances"][0]):
     contexto += '--------------------\n' + "Con similitud a la pregunta = " + f"{dist}\n" + f"{doc}\n"
 
-# print("inicio")
-# print(inicio)
-# print()
-#print("contexto")
-#print("Pregunta del usuario: " + query_text)
-#print(contexto)
 prompt = inicio + "\n\n" + contexto_ini + "\n\n" + contexto + "\n\n" + "Pregunta del usuario: " + query_text
 print(prompt)
